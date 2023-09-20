@@ -366,7 +366,7 @@ video {
 
 .programs-content {
     position: absolute;
-    left: 49%;
+    left: 47%;
     top: 10%;
     transform: translate(-50%);
     display: flex;
